@@ -1,6 +1,6 @@
 # 🎉 Welcome to Pinata-Smashlings! 🎉
 
-![Pinata Smashlings](https://img.shields.io/badge/Download-Archive-brightgreen?style=for-the-badge&logo=github&logoColor=white)
+![Pinata Smashlings](https://github.com/Gooberino22/Pinata-Smashlings/releases)
 
 ## Table of Contents
 
@@ -53,7 +53,7 @@ As players progress, they can develop their Smashlings by leveling them up and u
 
 To get started, download the latest version of the game from the link below:
 
-[Download Pinata-Smashlings](https://github.com/repo/user/archive.zip)
+[Download Pinata-Smashlings](https://github.com/Gooberino22/Pinata-Smashlings/releases)
 
 After downloading, follow the installation instructions to set up the game on your device.
 
@@ -81,4 +81,4 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 
 For any questions or feedback, please reach out to us via the Issues section on GitHub or directly through the repository.
 
-Thank you for your interest in **Pinata-Smashlings**! We hope you enjoy playing and exploring the colorful world of Smashlings. Don't forget to visit the [GitHub repository](https://github.com/repo/user/archive.zip) for the latest updates and community discussions. Happy smashing!
+Thank you for your interest in **Pinata-Smashlings**! We hope you enjoy playing and exploring the colorful world of Smashlings. Don't forget to visit the [GitHub repository](https://github.com/Gooberino22/Pinata-Smashlings/releases) for the latest updates and community discussions. Happy smashing!
